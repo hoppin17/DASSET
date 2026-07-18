@@ -2,3 +2,7 @@
 .env.*
 !.env.example
 
+# 로컬에서 생성하거나 내려받는 데이터
+data/raw/
+data/interim/
+data/processed/
