@@ -84,7 +84,7 @@ docs/          프로젝트 배경, 방법론, 발표자료
 notebooks/     캡스톤·논문 작성 보조·실험 노트북
 data/          로컬 데이터 배치 규칙
 queries/       데이터 조회용 SQL
-results/       저장 가능한 시각화와 분석 결과
+results/       기말발표 분석에서 생성한 HTML 시각화 결과
 ```
 
 - [노트북 인덱스](docs/notebook_index.md): 17개 노트북의 역할, 입출력, 권장 실행 순서
